@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 Welcome to my Github Home. I am Dhiraj Shah, a software developer at [Jbs Technology](https://jbstechtechnepal.com "Jbs Technology"). 
+Languages and Frameworks I use are : Python/Django, Java/Spring boot, React js
+
 
 <!--
 **dhirajshah04/dhirajshah04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
